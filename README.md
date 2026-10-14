@@ -4,7 +4,7 @@
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  Passionate about DSA, C++ and Frontend Development.
+  Passionate about DSA, C++ and WebDevelopment.
 </p>
 
 ---
