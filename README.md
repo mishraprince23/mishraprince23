@@ -1,4 +1,4 @@
-# Prince mishra
+# Prince Mishra
 <h1 align="center">Hi 👋, I'm Prince Mishra</h1>
 
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer</h3>
