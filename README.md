@@ -24,13 +24,31 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
 </p>
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🔧 Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 🧠 DSA Journey
 
 - Practicing problem-solving using C++
-- Learning arrays, searching and sorting
 - Improving logical thinking step by step
 
 ---
